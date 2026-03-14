@@ -1,0 +1,21 @@
+{
+  "name": "harmonyos-todo-app",
+  "version": "1.0.0",
+  "description": "鸿蒙待办事项应用",
+  "main": "index.js",
+  "scripts": {
+    "build": "hvigorw assembleHap",
+    "clean": "hvigorw clean"
+  },
+  "keywords": [
+    "harmonyos",
+    "todo",
+    "arkts"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

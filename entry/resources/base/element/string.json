@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "待办事项"
+    },
+    {
+      "name": "app_description",
+      "value": "简单高效的待办事项管理应用"
+    },
+    {
+      "name": "module_desc",
+      "value": "待办事项应用模块"
+    },
+    {
+      "name": "entryAbility_desc",
+      "value": "待办事项应用入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "待办事项"
+    },
+    {
+      "name": "main_page_description",
+      "value": "待办事项应用主页"
+    }
+  ]
+}
